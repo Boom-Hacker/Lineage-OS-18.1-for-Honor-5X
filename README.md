@@ -1,5 +1,5 @@
 # Lineage-OS-18.1-for-Honor-5X
-The current language is English,切换至中文:
+The current language is English,切换至中文:https://github.com/Boom-Hacker/Lineage-OS-18.1-for-Honor-5X/blob/main/README_cn.md
 
 Current progress:
 
